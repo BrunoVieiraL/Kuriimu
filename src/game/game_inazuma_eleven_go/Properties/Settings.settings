@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="game_inazuma_eleven_go.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PluginName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Inazuma Eleven GO</Value>
+    </Setting>
+    <Setting Name="PlayerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nate</Value>
+    </Setting>
+    <Setting Name="Scene" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dialog</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

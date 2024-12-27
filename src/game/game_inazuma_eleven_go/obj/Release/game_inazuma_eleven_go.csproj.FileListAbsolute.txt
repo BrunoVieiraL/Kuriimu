@@ -1,0 +1,5 @@
+D:\Desenvolvedor\Projetos pessoais\Traduções\Kuriimu\src\game\game_inazuma_eleven_go\obj\Release\game_inazuma_eleven_go.csproj.AssemblyReference.cache
+D:\Desenvolvedor\Projetos pessoais\Traduções\Kuriimu\src\game\game_inazuma_eleven_go\obj\Release\game_inazuma_eleven_go.Properties.Resources.resources
+D:\Desenvolvedor\Projetos pessoais\Traduções\Kuriimu\src\game\game_inazuma_eleven_go\obj\Release\game_inazuma_eleven_go.Settings.resources
+D:\Desenvolvedor\Projetos pessoais\Traduções\Kuriimu\src\game\game_inazuma_eleven_go\obj\Release\game_inazuma_eleven_go.csproj.GenerateResource.cache
+D:\Desenvolvedor\Projetos pessoais\Traduções\Kuriimu\src\game\game_inazuma_eleven_go\obj\Release\game_inazuma_eleven_go.csproj.CoreCompileInputs.cache
